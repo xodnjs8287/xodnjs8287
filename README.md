@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi✋%20%20장태원🐣&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi I'm✋%20%20장태원🐣&fontSize=80)
 
 </div>
 
@@ -44,9 +44,31 @@
   <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodnjs8287&langs_count=8)](https://github.com/xodnjs8287/github-readme-stats)
+
+
+<h3> 😆About Me</h3>
+
+<a href="mailto:xodnjs1837@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhks1132@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="https://one-development.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/tistory-FF6F00?style=flat&link=https://one-development.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+</div>
+
+
+
+
   
   </div>
 
+
+  
 <!--
 **xodnjs8287/xodnjs8287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
