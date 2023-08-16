@@ -20,16 +20,14 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-</div>
 
   <br>
 
   <br>
-
-
-<div align=center>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodnjs8287&langs_count=8)](https://github.com/xodnjs8287/github-readme-stats)
-<div >
+  
+  </div>
 
 <!--
 **xodnjs8287/xodnjs8287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
