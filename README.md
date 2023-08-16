@@ -27,8 +27,9 @@
   <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodnjs8287&langs_count=8)](https://github.com/xodnjs8287/github-readme-stats)
-
+<div align=center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodnjs8287&langs_count=8)](https://github.com/xodnjs8287/github-readme-stats)
+<div >
 
 <!--
 **xodnjs8287/xodnjs8287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
