@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi I'm✋%20%20장태원🐣&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm✋%20%20장태원🐣&fontSize=80)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <a href="https://one-development.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/tistory-FF6F00?style=flat&link=https://one-development.tistory.com/"
+        src="https://img.shields.io/badge/tistory-FF6F00?style=flat&logo=tistory&logoColor=white&link=https://one-development.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
 </div>
